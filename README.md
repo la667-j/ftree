@@ -14,9 +14,9 @@
 
 ## 📸 界面预览
 ### 图标
-![应用图标](assets/app_icon.png){:width="200px"}
+<img src="assets/app_icon.png" width="100" height="auto" alt="图标">
 ### 示例
-![示例截图](assets/example.png){:width="400px"}
+<img src="assets/example.png" width="300" height="auto" alt="示例截图">
 
 ## 🛠️ 技术栈
 
