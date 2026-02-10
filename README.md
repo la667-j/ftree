@@ -16,7 +16,7 @@
 ### 图标
 <img src="assets/app_icon.png" width="100" height="auto" alt="图标">
 ### 示例
-<img src="assets/example.png" width="300" height="auto" alt="示例截图">
+<img src="assets/example.png" width="600" height="auto" alt="示例截图">
 
 ## 🛠️ 技术栈
 
