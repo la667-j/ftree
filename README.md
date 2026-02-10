@@ -14,9 +14,9 @@
 
 ## 📸 界面预览
 ### 图标
-![应用图标](assets\app_icon.png)
+![应用图标](assets/app_icon.png)
 ### 示例
-![示例截图](assets\example.png)
+![示例截图](assets/example.png)
 
 ## 🛠️ 技术栈
 
