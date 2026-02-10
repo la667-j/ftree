@@ -47,14 +47,6 @@
    flutter run
    ```
 
-## 📂 项目结构说明
-
-- `Node`: 核心数据模型，存储成员基本信息及布局坐标。
-- `TreeData`: 族谱容器，管理节点映射表。
-- `LayoutEngine`: 布局算法核心，递归计算每个节点的 `blockWidth` 和最终坐标。
-- `FamilyTreePainter`: 负责绘制成员之间的连接线（折线风格）。
-- `FamilyTreeScreen`: 主交互界面，结合 `InteractiveViewer` 和 `Stack` 实现动态渲染。
-
 ## 📝 布局算法逻辑简述
 
 1. **深度优先排序**：根据出生排行对所有子女进行排序。
